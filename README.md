@@ -7,3 +7,8 @@ Shift : Shift C (Lama), Shift F (Baru)
 
 ## Screenshot Tampilan Aplikasi
 ![Screenshot Aplikasi](OutputHasil.jpg)
+
+
+## Demo Aplikasi - Pertemuan 3
+![Demo Aplikasi](DemoAplikasi_alyaluthfi.gif)
+
